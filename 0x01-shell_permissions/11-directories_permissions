@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo shmod -R+111 */
